@@ -10,4 +10,4 @@ function post () {
         XHR.send (formData)
     })
 }
-  window.addEventListener('load',post)
+  window.addEventListener('load', post)
